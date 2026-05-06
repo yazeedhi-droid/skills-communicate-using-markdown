@@ -1,5 +1,6 @@
 # Daily Learning
-
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png"
+width="200" align="right">
 ## Morning Planning
 
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
